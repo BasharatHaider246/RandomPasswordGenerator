@@ -8,5 +8,3 @@ A simple web-based password generator that allows users to create strong and sec
 - Include uppercase letters, lowercase letters, numbers, and symbols
 - Display password strength indicator
 - Copy generated password to clipboard
-
-## Project Structure
